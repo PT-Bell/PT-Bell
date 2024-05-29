@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-https://github.com/gjbae1212/hit-counter
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PT-Bell)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
